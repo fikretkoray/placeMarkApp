@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dark Theme Renkleri -->
+    <color name="darkTextColor">#FFFFFF</color>
+
+    <!-- Light Theme Renkleri -->
+    <color name="lightTextColor">#000000</color>
+
+
+</resources>
